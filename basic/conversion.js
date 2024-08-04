@@ -51,6 +51,13 @@ console.log(gameCounter)
 ++gameCounter
 console.log(gameCounter)
 
+let num=123;
+
+console.log(typeof(String (num)));
+
+console.log(typeof(num));
+
+
 
 
 
